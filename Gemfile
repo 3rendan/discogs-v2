@@ -29,6 +29,8 @@ gem 'bootstrap', '~> 5.1.3'
 #  discogs api gem
 gem 'discogs-wrapper'
 
+gem "font-awesome-rails"
+
 # iex gem for stock pricing
 gem 'iex-ruby-client'
 #  for styling devise forms with bootstrap
